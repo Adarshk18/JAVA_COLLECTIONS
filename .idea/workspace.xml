@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="25a29bd5-9ab0-48d8-9169-76a741ba2d9a" name="Changes" comment="new">
       <change afterPath="$PROJECT_DIR$/src/ArrayDequeue/learnArrayDeque.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/PriorityQueue/learnpqueue.java" afterDir="false" />
@@ -11,6 +12,13 @@
       <change afterPath="$PROJECT_DIR$/src/Set/SetExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Stack/StackExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack/StackExample.java" afterDir="false" />
+=======
+    <list default="true" id="25a29bd5-9ab0-48d8-9169-76a741ba2d9a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/ArrayListexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/StackExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+>>>>>>> origin/master
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +54,11 @@
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.learnArrayDeque">
+=======
+  <component name="RunManager" selected="Application.StackExample">
+>>>>>>> origin/master
     <configuration name="ArrayListexample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayList.ArrayListexample" />
       <module name="java_collections" />
@@ -60,6 +72,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="QueueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Queue.QueueExample" />
       <module name="java_collections" />
@@ -73,6 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+=======
+>>>>>>> origin/master
     <configuration name="StackExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Stack.StackExample" />
       <module name="java_collections" />
@@ -86,6 +101,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="learnArrayDeque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayDequeue.learnArrayDeque" />
       <module name="java_collections" />
@@ -117,6 +133,10 @@
         <item itemvalue="Application.learnArrayDeque" />
         <item itemvalue="Application.learnpqueue" />
         <item itemvalue="Application.QueueExample" />
+=======
+    <recent_temporary>
+      <list>
+>>>>>>> origin/master
         <item itemvalue="Application.StackExample" />
         <item itemvalue="Application.ArrayListexample" />
       </list>
